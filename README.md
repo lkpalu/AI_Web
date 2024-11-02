@@ -9,6 +9,10 @@
 
 一个非常简单的个人项目
 
+#### 使用教程
+采用ollama部署模型，默认采用千问1，请自行下载ollama并部署千问1
+项目中采用cgo，请自行配置gcc环境变量
+
 # English
 #### Description
 A web of artificial intelligence written in golang as the back end.
@@ -18,3 +22,9 @@ Front and back end separation
 Front end Html + Css + Javascript
 
 A small personal project
+
+
+#### Instructions  
+Use ollama to deploy the model, and use qwen 1 by default. 
+Please download ollama and deploy qwen 1 yourself.
+In the project, cgo is used, please configure the GCC environment variables by yourself.
