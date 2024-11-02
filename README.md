@@ -1,4 +1,6 @@
 # AI_Web
+#### Github :https://github.com/lkpalu/AI_Web
+#### Gitee :https://gitee.com/lupuxi/ai_-web
 # 中文
 #### 介绍
 采用golang为后端编写的人工智能问答网页
